@@ -127,8 +127,18 @@
 <li>写一个自动化脚本在修改博客后可以一次性提交到github，内容如下</li>
 </ul>
 
-<pre><code class="language-shell">
-
+<pre><code class="language-shell">cd /Users/readen/Documents/writing/MyBlog 
+hugo -t vienna 
+cd ./public
+git add --all
+if [$1] 
+then
+  git commit -m $1
+else 
+  git commit -m &quot;update blog&quot;
+fi
+git push origin master
+echo &quot;commit success&quot;
 
 </code></pre>
 

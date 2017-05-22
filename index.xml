@@ -47,8 +47,18 @@
 &lt;li&gt;写一个自动化脚本在修改博客后可以一次性提交到github，内容如下&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;
-
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;cd /Users/readen/Documents/writing/MyBlog 
+hugo -t vienna 
+cd ./public
+git add --all
+if [$1] 
+then
+  git commit -m $1
+else 
+  git commit -m &amp;quot;update blog&amp;quot;
+fi
+git push origin master
+echo &amp;quot;commit success&amp;quot;
 
 &lt;/code&gt;&lt;/pre&gt;
 </description>

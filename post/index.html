@@ -103,7 +103,7 @@
     </div>
   </header>
   <div>
-     自定义域名设置  在github仓库中的setting页面中设置自定义域名   将www.domain.com 解析到{you name}.github.io.  自动提交  写一个自动化脚本在修改博客后可以一次性提交到github，内容如下   
+     自定义域名设置  在github仓库中的setting页面中设置自定义域名   将www.domain.com 解析到{you name}.github.io.  自动提交  写一个自动化脚本在修改博客后可以一次性提交到github，内容如下  cd /Users/readen/Documents/writing/MyBlog hugo -t vienna cd ./public git add --all if [$1] then git commit -m $1 else git commit -m &quot;update blog&quot; fi git push origin master echo &quot;commit success&quot;  
   </div>
   
 </article>
