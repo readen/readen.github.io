@@ -6,8 +6,43 @@
     <description>Recent content in Posts on 朝花夕拾</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 May 2017 11:16:22 +0800</lastBuildDate>
     <atom:link href="http://www.expedite.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>使用hugo搭建博客</title>
+      <link>http://www.expedite.cn/post/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 20 May 2017 11:16:22 +0800</pubDate>
+      
+      <guid>http://www.expedite.cn/post/%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>
+
+&lt;h4 id=&#34;自定义域名设置&#34;&gt;自定义域名设置&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;在github仓库中的setting页面中设置自定义域名&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i4.buimg.com/588926/ce88f7be0731291c.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;将www.domain.com 解析到{you name}.github.io.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://i1.piimg.com/588926/4c91148c1cb01c80.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;自动提交&#34;&gt;自动提交&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;写一个自动化脚本在修改博客后可以一次性提交到github，内容如下&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;
+
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>养成笔记的习惯</title>
