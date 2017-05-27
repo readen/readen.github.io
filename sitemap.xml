@@ -2,7 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.expedite.cn/life/%E5%BF%83%E6%83%85%E4%B8%8D%E5%A5%BD%E5%B0%B1%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.expedite.cn/life/%E4%B8%8D%E8%A6%81%E5%B8%8C%E6%9C%9B%E4%B8%80%E6%AC%A1%E5%81%9A%E5%A5%BD/</loc>
+    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.expedite.cn/work/%E4%BC%81%E4%B8%9A%E5%A4%87%E6%A1%88%E8%BF%87%E7%A8%8B/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +28,7 @@
   
   <url>
     <loc>http://www.expedite.cn/life/</loc>
-    <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -29,8 +39,14 @@
   </url>
   
   <url>
-    <loc>http://www.expedite.cn/</loc>
+    <loc>http://www.expedite.cn/work/</loc>
     <lastmod>2017-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.expedite.cn/</loc>
+    <lastmod>2017-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

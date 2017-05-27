@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on 朝花夕拾</title>
+    <link>http://www.expedite.cn/work/index.xml</link>
+    <description>Recent content in Works on 朝花夕拾</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 22 May 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.expedite.cn/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>域名企业备案过程</title>
+      <link>http://www.expedite.cn/work/%E4%BC%81%E4%B8%9A%E5%A4%87%E6%A1%88%E8%BF%87%E7%A8%8B/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.expedite.cn/work/%E4%BC%81%E4%B8%9A%E5%A4%87%E6%A1%88%E8%BF%87%E7%A8%8B/</guid>
+      <description>
+
+&lt;h4 id=&#34;所需材料&#34;&gt;所需材料&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;主办单位有效证件原件扫描件电子版 （营业执照）&lt;/li&gt;
+&lt;li&gt;主体/网站负责人有效证件原件电子版 （企业法人）&lt;/li&gt;
+&lt;li&gt;域名证书&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;提供一下信息&#34;&gt;提供一下信息&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;备案域名所在的阿里云账号密码。(一个阿里云账户对应一个备案主体信息，如有多个备案主体信息，需要您使用多个阿里云账户分别导入)&lt;/li&gt;
+&lt;li&gt;主办单位性质。 企业 or 事业单位&lt;/li&gt;
+&lt;li&gt;单位地址和单位电话&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
