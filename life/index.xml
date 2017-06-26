@@ -6,8 +6,18 @@
     <description>Recent content in Lives on 朝花夕拾</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.expedite.cn/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>专注</title>
+      <link>http://www.expedite.cn/life/%E4%B8%93%E6%B3%A8/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.expedite.cn/life/%E4%B8%93%E6%B3%A8/</guid>
+      <description>&lt;p&gt;我们的大脑就像一个多核的手机，虽然可以同时处理多个任务，但是前台任务只能有一个，前台任务拥有95%的CPU占用率，而后台任务则处于休眠状态，需要被唤醒成为前台任务后继续执行。任务切换需要消耗CPU，而且不停的任务切换会导致内存不足。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>隐形人</title>
